@@ -1,4 +1,5 @@
-class WordInfo{
+//Harlan Ferguson 101133838
+public class WordInfo{
     private String word;
     private String meaning;
 
